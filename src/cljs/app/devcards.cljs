@@ -6,7 +6,7 @@
 (enable-console-print!)
 
 (defcard hello-world
-  "um, hi???")
+  "um, hi...")
 
 (defn main []
   (dc/start-devcard-ui!))
