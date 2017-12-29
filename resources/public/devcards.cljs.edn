@@ -1,0 +1,3 @@
+{:require  [app.devcards]
+ :init-fns [app.devcards/main]
+ :compiler-options {:devcards true}}

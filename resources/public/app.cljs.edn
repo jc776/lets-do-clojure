@@ -1,0 +1,3 @@
+{:require  [app.client]
+ :init-fns [app.client/main]
+ :compiler-options {}}
